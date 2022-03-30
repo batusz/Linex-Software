@@ -1,5 +1,0 @@
-local Version = {
-  Version = 3;
-  };
-  return Version
-  
